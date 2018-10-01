@@ -1,0 +1,37 @@
+[
+  {
+    "Title": "BestFitSearch",
+    "Desc": "BestFit will ensure you’re the best fit for the job and makes it easy to manage the job search.",
+    "Tasks": ["Optimized asynchronous calls to multiple API servers to render appropriate data within React app.", "Built out job search and job info with data from Indeed and Glassdoor APIs.","Designed color and layout of dashboard home page","Developed authentication for registered and guest users"],
+    "URL": "http://www.bestfitsearch.info/home",
+    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/bestfit_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/bestfit_02.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/bestfit_03.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/bestfit_04.png"]
+  },
+  {
+    "Title": "Codr",
+    "Desc": "Codr teaches kids to code javascript basics.",
+    "Tasks": ["Utilized AWS to store high res images and MongoDB/Mlabs to store shortened links.", "Enhanced Codr’s visual appeal and integrated componentes with server-side logic.", "Integrated AWS, React, and Mongoose to render images when a level is loaded from cookies."],
+    "URL": "https://codr.herokuapp.com/",
+    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/codr_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/codr_02.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/codr_03.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/codr_04.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/codr_05.png"]
+  },
+  {
+    "Title": "Airy Notes",
+    "Desc": "Quick and simple sticky notes that will disappear like thin air!",
+    "Tasks": ["Responsible for all styling and funcitonality.", "Used react on the front-end and express server to host assets.", "Customized CSS to add responsive notes.", "Created modular modal to create, edit, and delte cards."],
+    "URL": "https://airynotes.herokuapp.com/",
+    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/airynote_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/airynote_02.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/airynote_03.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/airynote_04.png"]
+  },
+  {
+    "Title": "Via·Tor",
+    "Desc": "Allows you to plan a trip anywhere, anytime.",
+    "Tasks": ["Built an options menu to filter cards based on preference.", "Utilized React and Material-UI to pass state through checkboxes to toggle cards.", "Maintained React state by passing down location data to multiple card views."],
+    "URL": "https://viator-app.herokuapp.com/",
+    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/via_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/via_02.png"]
+  },
+  {
+    "Title": "Laugh Local.ly",
+    "Desc": "Use Laugh Local.y to find local comedy shows in your neighborhood.",
+    "Tasks": ["Crafted the ability for comedians to manage their events by using React’s state capabilities in real time.", "Combined React and Bootstrap libraries to update the view when managing events.", "Utilized React’s state to update live in the view and passed along to database."],
+    "URL": "https://laughlocally.herokuapp.com",
+    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_02.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_03.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_04.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_05.png"]
+  }
+]
