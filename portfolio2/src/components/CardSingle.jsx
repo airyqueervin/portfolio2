@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Card, Button, CardImg, CardTitle, CardText, CardSubtitle, CardBody } from 'reactstrap';
 import Modal from './Modal';
+import './CardSingle.css'
 
 class SingleCard extends Component {
   constructor(props) {
@@ -25,7 +26,7 @@ class SingleCard extends Component {
     const { card } = this.props;
     return (
       <Card>
-        <CardImg onClick={this.toggle} top width="100%" src={card.Img[0]} alt="Card image cap" />
+        <CardImg className={"cardImg"} onClick={this.toggle} top width="100%" src={card.Img[0]} alt="Card image cap" />
         <Modal modal={this.state.modal} toggle={this.toggle} img={card.Img} title={card.Title} url={card.URL} />
         <hr className="my-2" />
         <CardBody>
