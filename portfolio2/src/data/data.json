@@ -26,12 +26,5 @@
     "Tasks": ["Built an options menu to filter cards based on preference.", "Utilized React and Material-UI to pass state through checkboxes to toggle cards.", "Maintained React state by passing down location data to multiple card views."],
     "URL": "https://viator-app.herokuapp.com/",
     "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/via_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/via_02.png"]
-  },
-  {
-    "Title": "Laugh Local.ly",
-    "Desc": "Use Laugh Local.y to find local comedy shows in your neighborhood.",
-    "Tasks": ["Crafted the ability for comedians to manage their events by using React’s state capabilities in real time.", "Combined React and Bootstrap libraries to update the view when managing events.", "Utilized React’s state to update live in the view and passed along to database."],
-    "URL": "https://laughlocally.herokuapp.com",
-    "Img": ["https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_01.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_02.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_03.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_04.png", "https://s3-us-west-2.amazonaws.com/ae-portfolio-screenshots/laugh_05.png"]
   }
 ]
